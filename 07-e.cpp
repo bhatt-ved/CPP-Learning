@@ -14,11 +14,11 @@ using namespace std;
 
 int main()
 {
-	float x;
-	float e = 1;
-	float n = 1;
-	float ACC = 0.00001;
-	float cur_numer, cur_denom, cur_val;
+	double x;
+	double e = 1;
+	double n = 1;
+	double ACC = 0.00001;
+	double cur_numer, cur_denom, cur_val;
 	cur_denom = 1;
 	cout << "Enter power > ";
 	cin >> x;
